@@ -1,0 +1,6 @@
+[submodule "surfacefun"]
+	path = surfacefun
+	url = https://github.com/danfortunato/surfacefun.git
+[submodule "chunkie"]
+	path = chunkie
+	url = https://github.com/fastalgorithms/chunkie.git

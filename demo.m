@@ -62,7 +62,7 @@ shg
 
 end
 
-function u = solve_and_plot(opts)
+function solve_and_plot(opts)
 
 arguments
     opts.q = 0;
@@ -72,7 +72,6 @@ arguments
     opts.z = @(u,v) 0*v;
     opts.test = 1
 end
-
 
 n = 16;
 nref = 3;
